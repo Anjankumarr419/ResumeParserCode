@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Summary>summary,Professional Summary</Summary>
+  <Specialties>specialties</Specialties>
+  <Skills>skills,Skills Summary,TECHNOLOGIES,TECHINCAL PROFICIENCY,TECHNICAL SKILLS,TECHNICAL SPECIALIZATIONS</Skills>
+  <Experience>SUMMARY OF EXPERIENCE,experience,PROFESSIONAL EXPERIENCE</Experience>
+  <Education>education,Scholastics,EDUCATIONAL QUALIFICATION</Education>
+  <Interests>interests,My Time,HOBBIES</Interests>
+  <Language>languages</Language>
+</Data>

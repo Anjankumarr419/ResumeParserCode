@@ -1,0 +1,15 @@
+D:\Nausherwan Aslam\Samples\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\ResumeParser\bin\ResumeParser.dll
+D:\Nausherwan Aslam\Samples\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\ResumeParser\bin\ResumeParser.pdb
+D:\Nausherwan Aslam\Samples\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\ResumeParser\obj\Debug\ResumeParser.dll
+D:\Nausherwan Aslam\Samples\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\ResumeParser\obj\Debug\ResumeParser.pdb
+D:\Nausherwan Aslam\Samples\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\ResumeParser\bin\AjaxMin.dll
+D:\Nausherwan Aslam\Samples\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\ResumeParser\obj\Debug\ResumeParser.csprojResolveAssemblyReference.cache
+C:\Users\rajesh.vemuri\Desktop\ResumeParser\ResumeParser\bin\ResumeParser.dll.config
+C:\Users\rajesh.vemuri\Desktop\ResumeParser\ResumeParser\bin\ResumeParser.dll
+C:\Users\rajesh.vemuri\Desktop\ResumeParser\ResumeParser\bin\ResumeParser.pdb
+C:\Users\rajesh.vemuri\Desktop\ResumeParser\ResumeParser\obj\Debug\ResumeParser.dll
+C:\Users\rajesh.vemuri\Desktop\ResumeParser\ResumeParser\obj\Debug\ResumeParser.pdb
+C:\Users\rajesh.vemuri\Desktop\ResumeParser\ResumeParser\bin\AjaxMin.dll
+C:\Users\rajesh.vemuri\Desktop\ResumeParser\ResumeParser\obj\Debug\ResumeParser.csprojResolveAssemblyReference.cache
+C:\Users\rajesh.vemuri\Desktop\ResumeParser\ResumeParser\bin\Newtonsoft.Json.dll
+C:\Users\rajesh.vemuri\Desktop\ResumeParser\ResumeParser\bin\Newtonsoft.Json.xml
